@@ -169,7 +169,7 @@ const AdditionalFeature = styled.div`
 const BodyHeader = styled.h1`
   color: black;
   margin: 1em;
-  color: #0f1730;
+  color: ##0f1730;
   font-size: 3em;
   font-weight: 300;
 `
@@ -218,6 +218,7 @@ const ToggleButton = styled.div`
   }
   h1 {
     font-size: 1.25em;
+    color: #0f1730;
   }
   p {
     font-size .75em;
@@ -249,7 +250,7 @@ const Section = styled.div`
 
   h1 {
     margin-bottom: 1.5rem;
-    color: #666666 !important;
+    color: #0f1730;
   }
   p {
     color: #666666 !important;

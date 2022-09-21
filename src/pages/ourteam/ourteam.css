@@ -1,0 +1,38 @@
+.team-h2 {
+  padding-top: 48px;
+  font-size: 48px;
+  width: 100%;
+  color: white;
+}
+
+.team-h3 {
+  font-size: 24px;
+  max-width: 90%;
+  margin-bottom: 12px;
+  color: white;
+  font-weight: 300;
+}
+
+.team-h4 {
+  font-size: 36px;
+  width: 100%;
+  margin-bottom: 12px;
+  color: white;
+  font-weight: 400;
+}
+
+.team-h5 {
+  font-size: 20px;
+  width: 100%;
+  margin-bottom: 12px;
+  color: white;
+  font-weight: 300;
+}
+
+.team-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}

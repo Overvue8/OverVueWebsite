@@ -34,7 +34,7 @@ export default function Navbar() {
           Docs
         </Link>
         <Link className="nav_ourTeam" to={"/ourteam"}>
-          Our Team
+          About Us
         </Link>
         <a className="github_button" href="https://github.com/open-source-labs/OverVue">
           <img className='github_logo' src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt="black github logo"></img>
